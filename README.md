@@ -391,18 +391,3 @@ The AI Customer Support System demonstrates how Retrieval-Augmented Generation c
 By combining semantic retrieval, an LLM, structured customer data, and a React-based interface, the project provides a practical approach to answering customer questions using available information.
 
 The project also demonstrates the importance of evaluating retrieval performance, response quality, and fallback behaviour when developing AI-based customer support applications.
-
-## Author and Project Information
-
-**Project Title:** AI Customer Support System using Retrieval-Augmented Generation
-
-**Project Type:** Major Academic Project
-
-**Domain:** Artificial Intelligence, Natural Language Processing, and Information Retrieval
-
-
-**Demonstration:** Add your project video link here.
-
----
-
-*Developed as an academic major project.*
