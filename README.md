@@ -400,7 +400,6 @@ The project also demonstrates the importance of evaluating retrieval performance
 
 **Domain:** Artificial Intelligence, Natural Language Processing, and Information Retrieval
 
-**Repository:** Add your GitHub repository link here.
 
 **Demonstration:** Add your project video link here.
 
